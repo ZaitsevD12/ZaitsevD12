@@ -1,6 +1,6 @@
 # Привет, я Данила Зайцев 👋
 
-![Иллюстрация профиля]([https://img.undraw.co/programming.svg](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzODE3NTIsIm5iZiI6MTc2MzM4MTQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE3VDEyMTA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxZDcyOTkzMTEyYjMwNTM3ZjM5M2EzNTAxOWViZDhlYzNhMDAwMDBhMDMyY2NkY2I2M2EyOGY0YWI0MzI2OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ELd7SA9uUTHZmNDAZTCOiIv0EY3MdJkT3acAZdQlfGM))
+![Иллюстрация профиля](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzODE3NTIsIm5iZiI6MTc2MzM4MTQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE3VDEyMTA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxZDcyOTkzMTEyYjMwNTM3ZjM5M2EzNTAxOWViZDhlYzNhMDAwMDBhMDMyY2NkY2I2M2EyOGY0YWI0MzI2OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ELd7SA9uUTHZmNDAZTCOiIv0EY3MdJkT3acAZdQlfGM)
 
 👨‍💻 **Обо мне** ✨ Junior Java Developer | Ex-Kommo Intern | КИПФИН '23 (WorldSkills) | Финалист Cup IT 2025 (аналитика данных)
 
@@ -13,9 +13,8 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 
 ## 📈 Статистика
-
-![Статистика](https://github-readme-stats.vercel.app/api?username=ivan-ivanov-java&show_icons=true&theme=radical&hide_border=true)  
-![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-ivanov-java&layout=compact&theme=radical&hide_border=true)
+ 
+![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaitsevD12&layout=compact&theme=radical&hide_border=true)
 
 ## 📚 Проекты
 
