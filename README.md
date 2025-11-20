@@ -12,6 +12,10 @@
 ### DevOps:
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 
+### Сертификаты
+- [Цифровой паспорт компетенций World Skills](https://drive.google.com/file/d/1S6SPxg4Nkv3ITav8TXr28YlKQEVrMI/view?usp=drive_link)
+- [Диплом финалиста Cup IT 2025](https://drive.google.com/file/d/1N01ouUqHhsNR0OMqvkH4OO-nUlG_U0D3/view?usp=drive_link)
+
 ## 📈 Статистика
  
 ![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaitsevD12&layout=compact&theme=radical&hide_border=true)
